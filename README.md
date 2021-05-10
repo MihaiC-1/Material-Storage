@@ -1,6 +1,6 @@
 # Material-Storage
 
-Managing a repository with a file database and a console options menu.
+Managing a store with a file database and a console options menu.
 
 The CRUD options are made on a material repository (Create / Read / Update / Delete). More display and sorting 
 options according to different criteria. Their displays are in tabular format, in consoles. The end of 
